@@ -25,5 +25,6 @@ git clone https://github.com/yashashwita20/admixture.git
 ## Work left
 
 1. Memory benchmark
-2. Find out why Neural-Admixture is faster locally than on Datahub
-3. More detailed Model/Output explanations
+2. How does the multi head approach compare to the single head approach tested so far? Does it increase speed or accuracy or both?
+3. Find out why Neural-Admixture is faster locally than on Datahub
+4. More detailed Model/Output explanations

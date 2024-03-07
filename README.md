@@ -1,6 +1,6 @@
 # Neural-Admixture vs ADMIXTURE for Global Ancestry Analysis
 
-A comparison between ADMIXTURE program and a new neural network-based approach for determining global ancestry compositions.
+A comparison between the ADMIXTURE program and a new neural network-based approach for determining global ancestry compositions.
 
 ## Models Tested
 

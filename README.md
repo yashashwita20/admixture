@@ -2,6 +2,8 @@
 
 A comparison between the ADMIXTURE program and a new neural network-based approach for determining global ancestry compositions.
 
+By Group 28 - Gurpreet Singh Saluja & Yashi Shukla
+
 ## Models Tested
 
 - ADMIXTURE program (By Alexander et al)

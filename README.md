@@ -21,7 +21,7 @@ You can find detailed analysis of the models and plots in the the jupyter notebo
 
 On your datahub instance - open terminal and run the following commands to install neural-admixture:
 ```shell
-pip install pandas_plink dask_ml py_pcha neural-admixture
+pip install pandas_plink dask_ml py_pcha neural-admixture scikit-allel
 pip install --upgrade numpy numba numexpr 
 ```
 Now git clone this repository (contains example data file to create plots)

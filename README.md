@@ -1,8 +1,12 @@
-# Neural-Admixture vs ADMIXTURE for Global Ancestry Analysis
+# Neural-Admixture Implementation in PyTorch (+ comparison with ADMIXTURE) for Global Ancestry Analysis
 
 A comparison between the ADMIXTURE program and a new neural network-based approach for determining global ancestry compositions.
 
 - Group 28 : Gurpreet Singh Saluja & Yashi Shukla
+
+## Notebook descriptions
+- CustomNeuralAdmixture.ipynb - Implementation of Neural Admixture in PyTorch + Comparison with ADMIXTURE software for 1000Genomes Dataset.
+- NeuralAdmixtureAnalysis.ipynb - Benchmark comparison (Output & Speed) between neural-admixture python package and the ADMIXTURE software
 
 ## Models Tested
 
